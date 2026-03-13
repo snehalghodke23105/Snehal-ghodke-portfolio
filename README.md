@@ -184,7 +184,6 @@ No npm packages. No JavaScript libraries. No build tools.
 
 Portfolio for **Snehal Ghodke** — Software Engineer specializing in C++, backend systems, and Linux environments. Currently pursuing B.Tech in Computer Science at Nutan College of Engineering and Research, Pune (GPA: 7.98).
 
-**Contact:** snehalghodake1979@gmail.com | +91 7276 996 159
 
 ---
 
